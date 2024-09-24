@@ -1,4 +1,4 @@
-Zubayir
+Zubayir Mukhammadjonov
 - 👋 Hi, I’m UI-Vortex
 - 👀 I’m interested in Crafting stunning, user-centric interfaces that leave a lasting impression.
 - 🌱 I’m currently learning best of the best animations so that i can build more 3D websites
