@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m UI-Vortex<br>👀 I’m interested in Crafting stunning, user-centric interfaces that leave a lasting impression.<br>🌱 I’m currently learning best of the best animations so that i can build more 3D websites<br>💞️ I’m looking to collaborate on projects that push the boundaries of design and functionality.<br>🌱 Learning every day, because in code, there’s always something new to discover.<br>😄 Pronouns: he/him<br>⚡ Fun fact: i love physical exercises like bodybuilding and playing basketball in my free time
+👋 Hi, I’m UI-Vortex<br>👀 I’m interested in Crafting stunning, user-centric interfaces that leave a lasting impression.<br>🌱 I’m currently learning best of the best animations so that i can build more 3D websites<br>💞️ I’m looking to collaborate on projects that push the boundaries of design and functionality.<br>🌱 Learning every day, because in code, there’s always something new to discover.<br>😄 Pronouns: he/him<br>⚡ Fun fact: i love physical exercises like bodybuilding and playing basketball in my free time.
 
 
 # 💻 Tech Stack:
